@@ -4,4 +4,4 @@ Disallow: /nogooglebot/
 User-agent: *
 Allow: /
 
-Sitemap: https://foreignpolicybulletinmonitor.com/sitemap.xml
+Sitemap: https://www.foreignpolicybulletinmonitor.com/sitemap.xml
